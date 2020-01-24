@@ -1,0 +1,54 @@
+{
+  "name": "Test1",
+  "spawns": [
+    {
+      "uniqueId": "4d546a10-9c3e-4228-a83d-f5fd6c75d958",
+      "location": {
+        "x": 900,
+        "y": 450
+      },
+      "team": "RED"
+    },
+    {
+      "uniqueId": "6fd1d54f-15af-4e8c-9fec-115dbd8753f9",
+      "location": {
+        "x": 300,
+        "y": 450
+      },
+      "team": "BLUE"
+    }
+  ],
+  "blocks": [
+    {
+      "uniqueId": "a15a6558-41e0-4350-a722-c7c67fe7116f",
+      "location": {
+        "x": 200,
+        "y": 200
+      },
+      "bounds": {
+        "x": 200,
+        "y": 200,
+        "width": 100,
+        "height": 50
+      },
+      "width": 100,
+      "height": 50
+    }
+  ],
+  "maxPlayers": 10,
+  "width": 1200,
+  "height": 900,
+  "flag": {
+    "uniqueId": "4eb0d3af-af72-45eb-b112-8d6538f8eba0",
+    "location": {
+      "x": 600,
+      "y": 450
+    },
+    "baseLocation": {
+      "x": 600,
+      "y": 450
+    },
+    "picker": null,
+    "pickedUp": false
+  }
+}

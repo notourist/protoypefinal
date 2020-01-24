@@ -1,0 +1,99 @@
+{
+  "name": "3x2",
+  "spawns": [
+    {
+      "uniqueId": "1897d4d3-d728-4464-ac06-48c971bce0da",
+      "location": {
+        "x": 250,
+        "y": 1000
+      },
+      "team": "RED"
+    },
+    {
+      "uniqueId": "0b7a04ae-6ecd-4cd4-801e-202017d09e98",
+      "location": {
+        "x": 2750,
+        "y": 1000
+      },
+      "team": "BLUE"
+    }
+  ],
+  "blocks": [
+    {
+      "uniqueId": "a15a6558-41e0-4350-a722-c7c67fe7116f",
+      "location": {
+        "x": 750,
+        "y": 200
+      },
+      "bounds": {
+        "x": 750,
+        "y": 200,
+        "width": 250,
+        "height": 1600
+      },
+      "width": 250,
+      "height": 1600
+    },
+    {
+      "uniqueId": "a15a6558-41e0-3456-j444-c7c15a67116f",
+      "location": {
+        "x": 2000,
+        "y": 200
+      },
+      "bounds": {
+        "x": 2000,
+        "y": 200,
+        "width": 250,
+        "height": 1600
+      },
+      "width": 250,
+      "height": 1600
+    },
+    {
+      "uniqueId": "a15a6558-1ek4-4b21-aw6s-c7c67fe7116f",
+      "location": {
+        "x": 1250,
+        "y": 500
+      },
+      "bounds": {
+        "x": 1250,
+        "y": 500,
+        "width": 500,
+        "height": 250
+      },
+      "width": 500,
+      "height": 250
+    },
+    {
+      "uniqueId": "ju1w6558-9cn6-mbu3-aw6s-c7ch5rj7116f",
+      "location": {
+        "x": 1250,
+        "y": 1250
+      },
+      "bounds": {
+        "x": 1250,
+        "y": 1250,
+        "width": 500,
+        "height": 250
+      },
+      "width": 500,
+      "height": 250
+    }
+  ],
+  "maxPlayers": 10,
+  "width": 3000,
+  "height": 2000,
+  "flag": {
+    "uniqueId": "3dfd9805-a5d8-4415-9f41-61dd1295ad03",
+    "location": {
+      "x": 1500,
+      "y": 1000
+    },
+    "picker": null,
+    "pickedUp": false,
+    "baseLocation": {
+      "x": 1497,
+      "y": 997
+    }
+  }
+}

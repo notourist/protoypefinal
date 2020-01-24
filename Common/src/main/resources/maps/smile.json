@@ -1,0 +1,146 @@
+{
+  "name": "smile",
+  "spawns": [
+    {
+      "uniqueId": "1897d4d3-d728-4464-ac06-48c971bce0da",
+      "location": {
+        "x": 3250,
+        "y": 100
+      },
+      "team": "RED"
+    },
+    {
+      "uniqueId": "0b7a04ae-6ecd-4cd4-801e-202017d09e98",
+      "location": {
+        "x": 250,
+        "y": 100
+      },
+      "team": "BLUE"
+    }
+  ],
+  "blocks": [
+    {
+      "uniqueId": "a15a6558-41e0-4350-a722-c7c67fe7116f",
+      "location": {
+        "x": 1000,
+        "y": 500
+      },
+      "bounds": {
+        "x": 1000,
+        "y": 500,
+        "width": 500,
+        "height": 500
+      },
+      "width": 500,
+      "height": 500
+    },
+    {
+      "uniqueId": "a15a6558-41e0-3456-j444-c7c15a67116f",
+      "location": {
+        "x": 2000,
+        "y": 500
+      },
+      "bounds": {
+        "x": 2000,
+        "y": 500,
+        "width": 500,
+        "height": 500
+      },
+      "width": 500,
+      "height": 500
+    },
+    {
+      "uniqueId": "a15a6558-1ek4-4b21-aw6s-c7c67fe7116f",
+      "location": {
+        "x": 500,
+        "y": 1500
+      },
+      "bounds": {
+        "x": 500,
+        "y": 1500,
+        "width": 500,
+        "height": 500
+      },
+      "width": 500,
+      "height": 500
+    },
+    {
+      "uniqueId": "ju1w6558-9cn6-mbu3-aw6s-c7ch5rj7116f",
+      "location": {
+        "x": 1000,
+        "y": 2000
+      },
+      "bounds": {
+        "x": 1000,
+        "y": 2000,
+        "width": 1500,
+        "height": 500
+      },
+      "width": 1500,
+      "height": 500
+    }
+  ,
+    {
+      "uniqueId": "ju1w6558-9cn6-mbu3-4415-c7ch5rj7116f",
+      "location": {
+        "x": 2500,
+        "y": 1500
+      },
+      "bounds": {
+        "x": 2500,
+        "y": 1500,
+        "width": 500,
+        "height": 500
+      },
+      "width": 500,
+      "height": 500
+    },
+    {
+      "uniqueId": "lu1w6558-9cn6-mbu3-aw6s-c7ch5rj7116f",
+      "location": {
+        "x": 500,
+        "y": 1000
+      },
+      "bounds": {
+        "x": 500,
+        "y": 1000,
+        "width": 500,
+        "height": 250
+      },
+      "width": 500,
+      "height": 250
+    }
+  ,
+    {
+      "uniqueId": "au1w6558-9cn6-mbu3-4415-c7ch5rj7116f",
+      "location": {
+        "x": 2500,
+        "y": 1000
+      },
+      "bounds": {
+        "x": 2500,
+        "y": 1000,
+        "width": 500,
+        "height": 250
+      },
+      "width": 500,
+      "height": 250
+    }
+  ],
+  "maxPlayers": 10,
+  "width": 3500,
+  "height": 3000,
+  "flag": {
+    "uniqueId": "3dfd9805-a5d8-9876-9f41-61dd1295ad03",
+    "location": {
+      "x": 1750,
+      "y": 1750
+    },
+    "picker": null,
+    "pickedUp": false,
+    "baseLocation": {
+      "x": 1750,
+      "y": 1750
+    }
+  }
+}
